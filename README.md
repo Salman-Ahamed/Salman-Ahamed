@@ -60,7 +60,7 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877468/Store/node-js_lgtvvz.png" alt="nodejs" width="40" height="40"/> 
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
