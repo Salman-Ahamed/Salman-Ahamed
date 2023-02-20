@@ -6,11 +6,6 @@
 ![age](https://img.shields.io/badge/age-21-blueviolet)
 [![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
 
-<p align="center"> 
-  Visitor count
-  <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
-</p>
-
 <!--START_SECTION:waka-->
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%2034%20mins-blue)
  -->
@@ -122,6 +117,11 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 
 [![Shahriyar-Hosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shahriyar-Hosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br> -->
+
+<p align="center"> 
+  Visitor count <br/>
+  <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
+</p>
 
 <p align="center">
    <table>
