@@ -24,6 +24,8 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 - 🕵️‍♂️ My portfolio: https://shahriyar-hosen.web.app/
 - 💻 Currently working project:- [Traveling Agency Website](https://traveling-agency.web.app/)
 
+<br>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
