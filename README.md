@@ -118,10 +118,10 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 [![Shahriyar-Hosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shahriyar-Hosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br> -->
 
-<p align="center"> 
+<h5 align="center"> 
   Visitor count <br/>
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
-</p>
+</h5>
 
 <p align="center">
    <table>
