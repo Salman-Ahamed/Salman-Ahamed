@@ -68,6 +68,12 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
 </a> 
+ <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+<img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/sass_dh63as.svg" alt="sass" width="40" height="40"/> 
+</a> 
+ <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
+</a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
 </a> 
