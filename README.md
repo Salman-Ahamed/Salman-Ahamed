@@ -43,6 +43,9 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://i.ibb.co/5xXVNVh/react.png" alt="react" width="40" height="40"/> 
 </a> 
@@ -84,9 +87,7 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
+
 <a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> 
 <img src="https://i.ibb.co/HXbptwp/5bSckoxz.png" width="40" height="40"/> 
 </a> 
