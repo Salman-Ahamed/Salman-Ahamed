@@ -49,6 +49,12 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
 <img src="https://i.ibb.co/v4BFdS7/Redux.png" alt="Redux" width="40" height="40"/> 
 </a> 
+ <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
+<img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149819/Store/styled-components_uwtdhi.png" alt="styled-components" width="40" height="40"/> 
+</a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+<img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/sass_dh63as.svg" alt="sass" width="40" height="40"/> 
+</a> 
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
 <img src="https://i.ibb.co/72RyCgr/route-removebg-preview.png" alt="react" width="40" height="40"/> 
 </a>
@@ -68,9 +74,7 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
 </a> 
- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-<img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/sass_dh63as.svg" alt="sass" width="40" height="40"/> 
-</a> 
+
  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
 </a> 
