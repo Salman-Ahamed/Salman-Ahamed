@@ -11,6 +11,8 @@
  -->
 <!-- ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat) -->
 
+<!-- git commit --amend --date="2023-02-24 10:28:14" -->
+
 <h1 align="center"> ✦✦✦ Welcome To My Github Profile ✦✦✦ </h1>
 <h3 align="center"> Hi 👋, I'm Front End Developer.</h3>
 
@@ -76,15 +78,15 @@ I'm Shahriar Hosen web developer from Bangladesh. I love web development because
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
-</a> 
+</a>
 
  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
-</a> 
+</a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
+</a>
 
 <a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> 
 <img src="https://i.ibb.co/HXbptwp/5bSckoxz.png" width="40" height="40"/> 
