@@ -50,7 +50,7 @@
 - 🕵️‍♂️ My portfolio: https://shahriyar-hosen.web.app/
 - 💻 Currently working project:- [Traveling Agency Website](https://traveling-agency.web.app/) -->
 <!-- right side img -->
-<img align='right' height='200'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
+<img align='right' height='180'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
 <br />
 
 <div>
