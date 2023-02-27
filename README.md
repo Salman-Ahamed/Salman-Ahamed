@@ -191,10 +191,12 @@
 </p>
 
 <!-- Visitor count -->
-  <p align="center"> 
-    Visitor count <br/>
-    <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
-  </p>
+
+<br/>
+<p align="center"> 
+  Visitor count <br/>
+  <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
+</p>
 
 <p align="center">
    <table>
