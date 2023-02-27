@@ -138,8 +138,8 @@
   </a> 
 </p>
 <!-- Technologies Slider -->
-<p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML5+CSS3+JavaScript+Typescript+React;ES6+Redux+React-Router+Context-API+Git;Tailwind-CSS+Bootstrap-5+Styled-Components+SASS+MaterialUI;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+Nextjs+Gatsby+Heroku+Netlify"></a>
+<p align='center' width="500">
+  <a href="https://git.io/typing-svg" width="500"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML5+CSS3+JavaScript+Typescript+React;ES6+Redux+React-Router+Context-API+Git;Tailwind-CSS+Bootstrap-5+Styled-Components+SASS+MaterialUI;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+Nextjs+Gatsby+Heroku+Netlify"></a>
 </p>
 
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
