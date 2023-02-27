@@ -14,15 +14,10 @@
  -->
 <!-- ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat) -->
 
-<h1 align="center"> ✦✦✦ Welcome To My Github Profile ✦✦✦ </h1>
+<br/>
+<h1 align="center"> ✦✦✦ Welcome To My Github Profile ✦✦✦ <br/> </h1>
 
 <div>
-<!--hand gif  -->
-<!-- <h1 align="center"> Hello, I'm Shahriyar Hosen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1> -->
-
-<div align="center">
-<!--Bd flag-->
-<!-- <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> -->
 
   <h3 align="center">
     <!--Bd flag-->
@@ -32,18 +27,17 @@
     <br/> 
     I'm an enthusiastic and passionate Web Developer from Bangladesh.
   </h3>
-</div>
 
   <div align="left" text-align= "justify">
-  I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
   </div>
- <br />
+  <br />
 
 <div>
 
 <h3 align="center"> Hi 👋, I'm Front End Developer.</h3>
 
-I'm Shahriar Hosen web developer from Bangladesh. I love web development because I can showcase my creativity in this work. I want to see myself as a skilled web developer through my hard work. I am just starting my career so I want to work with the kind of people so that I can improve myself professionally and personally through them. my goal is to finish the job on time and do my best to get the job done beautifully.
+<!-- I'm Shahriar Hosen web developer from Bangladesh. I love web development because I can showcase my creativity in this work. I want to see myself as a skilled web developer through my hard work. I am just starting my career so I want to work with the kind of people so that I can improve myself professionally and personally through them. my goal is to finish the job on time and do my best to get the job done beautifully. -->
 
 <!-- [![Github](https://img.shields.io/github/followers/shahriyarhosen?label=Follow&style=social)](https://github.com/shahriyarhosen)&nbsp;![Profile views](https://gpvc.arturio.dev/shahriyarhosen) -->
 
