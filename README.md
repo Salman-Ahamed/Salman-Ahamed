@@ -138,8 +138,8 @@
   </a> 
 </p>
 
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+SaSS+Bootstrap;tailwindCSS+MaterialUI+StyledComponent;Javascript+Reactjs+Redux+Nextjs;Firebase+Nodejs+ExpressJs+MongoDB;Git+Heroku+Netlify"></a>
+<p align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+TailwindCSS+Bootstrap;SCSS+StyledComponent+MaterialUI;Javascript+Reactjs+Redux+Nextjs;Firebase+Nodejs+ExpressJs+MongoDB;Git+Heroku+Netlify"></a>
 </p>
 
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
