@@ -57,6 +57,18 @@
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
 
+<img align='right' height='200'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
+  <br />
+    </div>
+
+- 🌱 I’m currently learning Redux.
+- 👯 I’m looking to collaborate on MERN projects with other passionate developers.
+- 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress
+- 🎯 Please have a look at my [Portfolio Site](https://cooming-soon-23.netlify.app/) for more details about me.
+- 📧 How to reach me: esa.webdeveloper@gmail.com
+
+</div>
+
 <!-- === === === === === === Technologies that I know === === === === === === === -->
 
 <h1 align="center">
