@@ -18,16 +18,17 @@
 
 <div>
 <!--hand gif  -->
-<h1 align="center"> Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
+<!-- <h1 align="center"> Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1> -->
 
-<!--Bd flag-->
 <div align="center">
+<!--Bd flag-->
 <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/>
-<h3 >I'm an enthusiastic and passionate Web Developer from Bangladesh </h3></div>
 
-<div align="left" text-align= "justify">
-I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
-</div>
+<h3 >Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! I'm an enthusiastic and passionate Web Developer from Bangladesh.</h3></div>
+
+  <div align="left" text-align= "justify">
+  I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+  </div>
  <br />
 
 <div>
