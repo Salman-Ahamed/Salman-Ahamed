@@ -140,7 +140,7 @@
 
 <!-- Technologies Slider -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=2000&center=true&vCenter=true&width=700&lines=HTML5+CSS3+JavaScript+Typescript+React+;ES6+Redux+React-Router+Context-API+Git+;Tailwind-CSS+Bootstrap-5+Styled-Components+SASS+MaterialUI;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+NextJs+Gatsby+Heroku+Netlify)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=2000&center=true&vCenter=true&width=500&lines=HTML5+CSS3+JavaScript+Typescript+React+;ES6+Redux+React-Router+Context-API+Git+;Tailwind-CSS+Bootstrap-5+Styled-Components+SASS+MaterialUI;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+NextJs+Gatsby+Heroku+Netlify)](https://git.io/typing-svg)
 
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
 
