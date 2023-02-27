@@ -1,9 +1,11 @@
 <p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" /></p>
 
+Badge
 ![Profile views](https://gpvc.arturio.dev/Shahriyar-Hosen)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
+![projects](https://img.shields.io/badge/projects-30-important)
 ![living](https://img.shields.io/badge/living-Natore-3c9)
-![age](https://img.shields.io/badge/age-21-blueviolet)
+![age](https://img.shields.io/badge/age-22-blueviolet)
 [![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
 
 <!--START_SECTION:waka-->
