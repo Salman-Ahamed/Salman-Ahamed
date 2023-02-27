@@ -14,7 +14,9 @@
  -->
 <!-- ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat) -->
 
-<h1 align="center" > ✦✦✦ Welcome To My Github Profile ✦✦✦ </h1>
+<!-- ✦✦✦ -->
+
+<h1 align="center" >⚡⚡⚡  Welcome To My Github Profile ⚡⚡⚡ </h1>
 
 <div>
 
