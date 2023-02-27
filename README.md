@@ -18,7 +18,7 @@
 
 <!-- ✦✦✦ -->
 
-<h1 align="center" >⚡💫⚡  Welcome To My Github Profile ⚡💫⚡ </h1>
+<h1 align="center" >💥 💫💥 Welcome To My Github Profile 💥💫💥</h1>
 
 <div>
 
