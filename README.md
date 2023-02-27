@@ -163,6 +163,12 @@
   </a>
 </p>
 
+<!-- Visitor count -->
+  <p align="center"> 
+    Visitor count <br/>
+    <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
+  </p>
+
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
 
 <!--Other Mode -->
@@ -173,14 +179,23 @@
 [![Shahriyar-Hosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shahriyar-Hosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br> -->
 
+ <!--  === === === === === === === Favourite Stack === === === === === === === ===  -->
+
+<h1 align="center">💖 My Favourite Stack 💖</h1>
+
+<div align="center">
+  <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Bootstrup" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
 <p align="center">
    <table>
    <h1 align="center">Github Stats</h1>
-   
-   <p align="center"> 
-     Visitor count <br/>
-     <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
-   </p>
        <tr>
        <td><img alt="Shahriyar-Hosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
         <!--     &hide=html     -->
