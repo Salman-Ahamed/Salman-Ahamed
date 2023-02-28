@@ -32,7 +32,7 @@
   </h3>
 
   <div align="left" text-align= "justify">
-    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
   </div>
   <br />
 
@@ -200,12 +200,13 @@
 </p>
 
 <!-- Visitor count -->
-
 <br/>
 <p align="center"> 
   Visitor count <br/>
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
 </p>
+
+<!-- === === === === === === Github Stats === === === === === === === === -->
 
 <p align="center">
    <table align='center'>
@@ -228,13 +229,16 @@
        </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"></td>
+        <td colspan="2" align="center">
+          <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true">
+        </td>
      </tr>
    </table>
 </p>
 
-<hr>
 <!--  Project png-->
+
+<hr>
 <!-- ![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png) -->
 
 <img align='center' height='200' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
