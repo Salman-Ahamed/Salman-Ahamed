@@ -211,11 +211,11 @@
    <table align='center'>
    <h1 align="center">Github Stats</h1>
       <tr>
-       <td>
+       <td colspan="1">
         <img alt="Shahriyar-Hosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
        </td>
         <!--     &hide=html     -->
-       <td>
+       <td  colspan="1">
         <img alt="Shahriyar-Hosen :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=14&theme=blue-green&layout=compact&hide=html"> 
        </td>
      </tr>
