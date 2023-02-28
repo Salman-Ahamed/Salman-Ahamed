@@ -213,21 +213,22 @@
    <!-- 
    Favorites:[
     blue-green,
+    chartreuse-dark,
     highcontrast,
    ]
    All Themes link:-> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
    -->
       <tr>
        <td>
-        <img alt="Shahriyar-Hosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=chartreuse-dark&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+        <img alt="Shahriyar-Hosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
        </td>
         <!--     &hide=html     -->
        <td>
-        <img alt="Shahriyar-Hosen :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=14&theme=chartreuse-dark&layout=compact&hide=html"> 
+        <img alt="Shahriyar-Hosen :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=14&theme=blue-green&layout=compact&hide=html"> 
        </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=chartreuse-dark&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
