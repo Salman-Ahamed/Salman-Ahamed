@@ -37,7 +37,6 @@
   <br />
 
 <div>
-<!-- git commit --amend --date="2023-03-06 10:17:22" -->
 
 <!-- <h3 align="center"> Hi 👋, I'm Front End Developer.</h3> -->
 
