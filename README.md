@@ -1,4 +1,6 @@
-<p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" /></p>
+<p align="center" >
+<img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" />
+</p>
 
 <!-- Badge -->
 
