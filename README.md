@@ -61,7 +61,7 @@
 <div>
 <!-- left side section -->
 
-- 🌱 I’m currently learning OOP.
+- 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on MERN projects with other passionate developers.
 - 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress
 - 🎯 Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
