@@ -148,14 +148,8 @@
   </a>
 </p>
 
-<!-- === === === === === === Contribution Graph === === === === === === === === -->
-
-<!--Other Mode -->
-<!--chartreuse-dark  -->
 <!-- gotham -->
 <h3 align="center">Contribution Graph</h3>
-
-[![Shahriyar-Hosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shahriyar-Hosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
@@ -241,6 +235,14 @@
    </table>
 </p>
 
+<!-- === === === === === === Contribution Graph === === === === === === === === -->
+
+<!-- gotham -->
+<h3 align="center">Contribution Graph</h3>
+
+[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 <!--  Project png-->
 
 <hr>
