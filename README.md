@@ -192,18 +192,18 @@
   </a>
 </p>
 
-<br/>
-<!-- === === === === === === Contribution Graph === === === === === === === === -->
-<h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
-
-[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- Visitor count -->
 <br/>
 <p align="center"> 
   Visitor count <br/>
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
 </p>
+
+<br/>
+<!-- === === === === === === Contribution Graph === === === === === === === === -->
+<h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
+
+[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- === === === === === === Github Stats === === === === === === === === -->
 
