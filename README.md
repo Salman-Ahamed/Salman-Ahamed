@@ -153,10 +153,10 @@
 <!--Other Mode -->
 <!--chartreuse-dark  -->
 <!-- gotham -->
-<!-- <h3 align="center">Contribution Graph</h3>
+<h3 align="center">Contribution Graph</h3>
 
 [![Shahriyar-Hosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shahriyar-Hosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br> -->
+<br>
 
 <br/>
  <!--  === === === === === === === Favourite Stack === === === === === === === ===  -->
