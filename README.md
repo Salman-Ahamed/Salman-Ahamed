@@ -37,7 +37,7 @@
   </div>
   <br />
 
-[![Shahriyar-Hosen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahriyarhosen)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Shahriyar-Hosen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahriyarhosen)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div> 
 <!-- <h3 align="center"> Hi 👋, I'm Front End Developer.</h3> -->
