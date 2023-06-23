@@ -100,6 +100,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/5xXVNVh/react.png" alt="react" width="40" height="40"/> 
   </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1687531061/Store/next_fwgcua.png" width="40" height="40"/> 
+  </a> 
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/v4BFdS7/Redux.png" alt="Redux" width="40" height="40"/> 
   </a> 
@@ -136,10 +139,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-
-  <a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/HXbptwp/5bSckoxz.png" width="40" height="40"/> 
-  </a> 
 </p>
 
 <!-- Technologies Slider -->
