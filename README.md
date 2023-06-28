@@ -4,16 +4,17 @@
 
 <!-- Badge -->
 
-![Profile views](https://gpvc.arturio.dev/Shahriyar-Hosen)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Projects](https://img.shields.io/badge/projects-30-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
 ![Age](https://img.shields.io/badge/age-22-blueviolet)
 [![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
 
+<!-- ![Profile views](https://gpvc.arturio.dev/Shahriyar-Hosen) -->
 <!--START_SECTION:waka-->
-<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%2034%20mins-blue)
- -->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%2034%20mins-blue)
+
 <!-- ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat) -->
 
 <!-- === === === === === === === === === === === === === === -->
