@@ -4,7 +4,7 @@
 
 <!-- Badge -->
 
-![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time-06%20hrs%2024%20mins-blue)
+![Per Day (Avg) Code Time](http://img.shields.io/badge/Code%20Time-06%20hrs%2024%20mins-blue)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Projects](https://img.shields.io/badge/projects-30-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
