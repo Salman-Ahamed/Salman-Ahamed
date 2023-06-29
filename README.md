@@ -199,12 +199,11 @@
 
 <!-- === === === === === === Github Stats === === === === === === === === -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
    <table align='center'>
    <h1 align="center">Github Stats</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
    <!-- 
    Favorites:[
     blue-green,
@@ -213,7 +212,6 @@
    ]
    All Themes link:-> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
    -->
-
       <tr>
        <td>
         <img alt="Shahriyar-Hosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
