@@ -201,7 +201,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center">
+<div align="center">
  <!-- 
    Favorites:[
     blue-green,
@@ -210,40 +210,37 @@
    ]
    All Themes link:-> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
    -->
-   <table align='center'>
-   <h1 align="center">Github Stats</h1>
+  <table>
+      <h1 align="center">Github Stats</h1>
       <tr>
-        <td colspan="2" align="center">
+        <td>
           <table>
-          <tr> 
-            <td>
-                <img alt="Shahriyar-Hosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-            </td>
-        </tr>
-      </table>
+            <tr>
+              <td>
+                <img
+                  alt="Shahriyar-Hosen :: Profile Stats"
+                  src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <img
+                  src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
+                />
+              </td>
+            </tr>
+          </table>
         </td>
-        <td colspan="2" align="center">
-          <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true">
+        <td>
+          <img
+            alt="Shahriyar-Hosen :: Top Langs]"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=pie&hide=html"
+          />
         </td>
-     </tr>
-   </table>
-   <!-- <table align='center'>
-   <h1 align="center">Github Stats</h1>
-      <tr>
-       <td>
-        <img alt="Shahriyar-Hosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-       </td>
-       <td>
-        <img alt="Shahriyar-Hosen :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html">
-       </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center">
-          <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true">
-        </td>
-     </tr>
-   </table> -->
-</p>
+      </tr>
+    </table>
+</div>
 
 <!--  Project png-->
 
