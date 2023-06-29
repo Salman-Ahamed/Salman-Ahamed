@@ -218,7 +218,7 @@
        </td>
         <!--     &hide=html     -->
        <td>
-        <img alt="Shahriyar-Hosen :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=pie&hide=html">
+        <img alt="Shahriyar-Hosen :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html">
        </td>
      </tr>
      <tr>
