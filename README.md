@@ -195,14 +195,6 @@
 <!-- === === === === === === Github Stats === === === === === === === === -->
 
  <div align="center">
-      <!-- 
-          Favorites:[
-           blue-green,
-           chartreuse-dark,
-           highcontrast,
-          ]
-          All Themes link:-> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
-          -->
       <table align="center">
         <h1 align="center">Github Stats</h1>
         <tr>
