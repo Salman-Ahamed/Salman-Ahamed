@@ -204,7 +204,6 @@
               src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
             />
           </td>
-          <!--     &hide=html     -->
           <td>
             <img
               alt="Shahriyar-Hosen :: Top Langs]"
