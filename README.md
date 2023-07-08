@@ -228,9 +228,9 @@
     <h1 align="center">🏆 Github Profile Trophy</h1>
     <tr>
       <td colspan="2" align="center">
-        <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+        <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
           <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=8&theme=darkhub"/>
-        </a>
+        <!-- </a> -->
       </td>
     </tr>
   </table>
