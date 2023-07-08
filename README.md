@@ -50,6 +50,7 @@
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
 </div>
 
+<br/>
 <!-- === === === === === === Github Stats === === === === === === === === -->
 
 <h1 align="center">Github Stats</h1>
@@ -81,6 +82,7 @@
   </table>
 </div>
 
+<br/>
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
 <h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
 
@@ -181,13 +183,10 @@
 </div>
 
 <!-- Visitor count -->
-<br/>
 <h3 align="center">Visitor count</h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
 </p>
-
-<br/>
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 <p align="center"> 
