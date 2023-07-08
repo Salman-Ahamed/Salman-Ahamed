@@ -51,9 +51,9 @@
 </div>
 
 <br/>
-<!-- === === === === === === Github Stats === === === === === === === === -->
+<!-- === === === === === === Github Status === === === === === === === === -->
 
-<h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  Github Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  Github Status <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
 
 <div align="center">
   <table align="center">
