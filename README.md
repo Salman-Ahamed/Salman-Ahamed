@@ -194,7 +194,7 @@
 <p align="center"> 
   <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
 <img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=darkhub"/>
-<img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&theme=algolia"/>
+<img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&theme=algolia&column=7"/>
   <!-- </a> -->
 </p>
 
