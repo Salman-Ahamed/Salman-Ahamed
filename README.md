@@ -168,7 +168,7 @@
 <br/>
  <!--  === === === === === === === Favorite Stack === === === === === === === ===  -->
 
-<h1 align="center">💖 My Favourite Stack 💖</h1>
+<h1 align="center">💖 My Favorite Stack 💖</h1>
 
 <div align="center">
   <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -182,24 +182,23 @@
 
 <!-- === === === === === === Connect with me === === === === === === === === -->
 
-<br/>
 <h1 align="center">Connect with me</h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/shahriyar-hossen/" target="blank">
+  <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595758/Store/linkedIn_f49kns.svg" alt="Dev_Shahriyar" height="30" width="40" />
+  </a>&nbsp;
+  <a href="https://shahriyar-hosen.web.app/" target="_blank" rel="noopener">
+  <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595758/Store/protfolio_ibvttp.png" height="30" width="40" />
+  </a>
   <a href="mailto:shahriyar.hosen.dev@gmail.com" target="_blank" rel="noopener" >
   <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595841/Store/email_hbywdm.png" height="30" width="40"/>
   </a>&nbsp;
   <a href="https://stackoverflow.com/users/18384022/shahriyar-hosen" target="_blank" rel="noopener" >
   <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595758/Store/stackoverflow-2_hkhiiu.png" height="30" width="40"/>
   </a>&nbsp;
-  <a href="https://shahriyar-hosen.web.app/" target="_blank" rel="noopener">
-  <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595758/Store/protfolio_ibvttp.png" height="30" width="40" />
-  </a>
   <a  href="https://twitter.com/Dev_Shahriyar" target="blank">
   <img  align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595759/Store/twitter_b1dxym.svg" alt="Dev_Shahriyar" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahriyar-hossen/" target="blank">
-  <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595758/Store/linkedIn_f49kns.svg" alt="Dev_Shahriyar" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/shahriyar.hosen.dev/" target="blank">
   <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595759/Store/facebook_ss7fs6.svg" alt="Dev_Shahriyar" height="30" width="40" />
@@ -228,9 +227,9 @@
 
 <hr>
 
-<p align="center" >
+<!-- <p align="center" >
   <img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" />
-</p>
+</p> -->
 <!--  Project png-->
 <!-- <img align='center' height='200' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
 <hr> -->
