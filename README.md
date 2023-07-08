@@ -197,6 +197,10 @@
 <img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=algolia"/>
 <img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=matrix"/>
 <img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=tokyonight"/>
+<img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=discord"/>
+<img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=onestar"/>
+<img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=juicyfresh"/>
+<img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=darkhub"/>
   <!-- </a> -->
 </p>
 
