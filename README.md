@@ -1,8 +1,9 @@
 <!-- === === === === === === Github Stats === === === === === === === === -->
 
+<h1 align="center">Github Stats</h1>
+
 <div align="center">
   <table align="center">
-    <h1 align="center">Github Stats</h1>
     <tr>
       <td>
         <img
