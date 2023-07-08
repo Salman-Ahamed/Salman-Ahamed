@@ -194,35 +194,42 @@
 
 <!-- === === === === === === Github Stats === === === === === === === === -->
 
- <div align="center">
-      <table align="center">
-        <h1 align="center">Github Stats</h1>
-        <tr>
-          <td>
-            <img
-              alt="Shahriyar-Hosen :: Profile Stats"
-              src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
-            />
-          </td>
-          <td>
-            <img
-              alt="Shahriyar-Hosen :: Top Langs]"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" align="center">
-            <img
-              align="center"
-              src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
-            />
-          </td>
-        </tr>
-      </table>
-    </div>
-<!--  Project png-->
+<div align="center">
+  <table align="center">
+    <h1 align="center">Github Stats</h1>
+    <tr>
+      <td>
+        <img
+          alt="Shahriyar-Hosen :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+        />
+      </td>
+      <td>
+        <img
+          alt="Shahriyar-Hosen :: Top Langs]"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          align="center"
+          src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr>
-<img align='center' height='200' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
-<hr>
+ <summary>🏆 Github Profile Trophy</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=babulakterfsd&column=8&theme=darkhub"/>
+  </a>
+ </p>
+<!--  Project png-->
+<!-- <img align='center' height='200' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
+<hr> -->
