@@ -1,3 +1,38 @@
+<!-- === === === === === === Github Stats === === === === === === === === -->
+
+<div align="center">
+  <table align="center">
+    <h1 align="center">Github Stats</h1>
+    <tr>
+      <td>
+        <img
+          alt="Shahriyar-Hosen :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+        />
+      </td>
+      <td>
+        <img
+          alt="Shahriyar-Hosen :: Top Langs]"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          align="center"
+          src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- === === === === === === Contribution Graph === === === === === === === === -->
+<h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
+
+[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Badge -->
 
 ![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
@@ -182,41 +217,6 @@
 </p>
 
 <br/>
-
-<!-- === === === === === === Contribution Graph === === === === === === === === -->
-<h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
-
-[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- === === === === === === Github Stats === === === === === === === === -->
-
-<div align="center">
-  <table align="center">
-    <h1 align="center">Github Stats</h1>
-    <tr>
-      <td>
-        <img
-          alt="Shahriyar-Hosen :: Profile Stats"
-          src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
-        />
-      </td>
-      <td>
-        <img
-          alt="Shahriyar-Hosen :: Top Langs]"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img
-          align="center"
-          src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 <p align="center"> 
