@@ -1,7 +1,3 @@
-<p align="center" >
-<img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" />
-</p>
-
 <!-- Badge -->
 
 ![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
@@ -230,6 +226,10 @@
 </p>
 
 <hr>
+
+<p align="center" >
+  <img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" />
+</p>
 <!--  Project png-->
 <!-- <img align='center' height='200' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
 <hr> -->
