@@ -167,7 +167,8 @@
   </a>
 </p>
 
-<br/>
+<hr>
+
  <!--  === === === === === === === Favorite Stack === === === === === === === ===  -->
 
 <h1 align="center">💖 My Favorite Stack 💖</h1>
@@ -194,8 +195,6 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=8&theme=darkhub"/>
   </a>
 </p>
-
-<hr>
 
 <!-- <p align="center" >
   <img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" />
