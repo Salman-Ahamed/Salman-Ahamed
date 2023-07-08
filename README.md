@@ -223,13 +223,15 @@
 </div>
 
 <hr>
- <summary>🏆 Github Profile Trophy</summary>
- </br>
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=8&theme=darkhub"/>
+
+<h1 align="center">🏆 Github Profile Trophy</h1>
+
+<p align="center">
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=8&theme=darkhub"/>
   </a>
- </p>
+</p>
+
 <!--  Project png-->
 <!-- <img align='center' height='200' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
 <hr> -->
