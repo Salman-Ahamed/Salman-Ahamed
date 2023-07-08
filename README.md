@@ -191,11 +191,11 @@
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 
-<p align="center"> 
+<!-- <p align="center">  -->
   <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
 <img align='center' width='fit-content' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=7&theme=darkhub"/>
   <!-- </a> -->
-</p>
+<!-- </p> -->
 
 <!-- <p align="center" >
   <img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" />
