@@ -1,5 +1,45 @@
 <h1 align="center" >💥 💫💥 Welcome To My Github Profile 💥💫💥</h1>
 
+<!-- === === === === === === === === === === === === === === -->
+<!-- ✦✦✦ -->
+
+<div>
+  <h3 align="center">
+    <!--Bd flag-->
+    <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
+    <br/> 
+    Hello, I'm Shahriyar Hosen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
+    <br/> 
+    I'm an enthusiastic and passionate Web Developer from Bangladesh.
+  </h3>
+
+  <div align="left" text-align= "justify">
+    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+  </div>
+  <br />
+<div>
+
+<!-- === === === === === === === === === === === === === === -->
+
+<br />
+
+<!-- right side img -->
+<img align='right' height='180'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
+
+<br />
+
+<div>
+<!-- left side section -->
+
+- 🎯 I’m currently learning Next.js.
+- 👯 I’m looking to collaborate on MERN projects with other passionate developers.
+- 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress
+- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
+- 💻 Currently working project:- [Traveling Agency Website](https://traveling-agency.web.app/)
+- 🤔 I’m looking for help with To increase efficiency
+- 📫 How to reach me: shahriyar.hosen.dev@gmail.com
+</div>
+
 <!-- === === === === === === Github Stats === === === === === === === === -->
 
 <h1 align="center">Github Stats</h1>
@@ -45,46 +85,6 @@
 ![Age](https://img.shields.io/badge/age-22-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
-
-<!-- === === === === === === === === === === === === === === -->
-<!-- ✦✦✦ -->
-
-<div>
-  <h3 align="center">
-    <!--Bd flag-->
-    <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
-    <br/> 
-    Hello, I'm Shahriyar Hosen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
-    <br/> 
-    I'm an enthusiastic and passionate Web Developer from Bangladesh.
-  </h3>
-
-  <div align="left" text-align= "justify">
-    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
-  </div>
-  <br />
-<div>
-
-<!-- === === === === === === === === === === === === === === -->
-
-<br />
-
-<!-- right side img -->
-<img align='right' height='180'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
-
-<br />
-
-<div>
-<!-- left side section -->
-
-- 🎯 I’m currently learning Next.js.
-- 👯 I’m looking to collaborate on MERN projects with other passionate developers.
-- 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
-- 💻 Currently working project:- [Traveling Agency Website](https://traveling-agency.web.app/)
-- 🤔 I’m looking for help with To increase efficiency
-- 📫 How to reach me: shahriyar.hosen.dev@gmail.com
-</div>
 
 <!-- === === === === === === Technologies that I know === === === === === === === -->
 
