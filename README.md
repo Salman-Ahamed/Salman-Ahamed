@@ -44,8 +44,8 @@
 - 🎯 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on MERN projects with other passionate developers.
 - 🥅 2023 Goals: To be a Master of React, Next.js, and React Native as well as WordPress
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
 - 🤔 I’m looking for help with To increase efficiency
+- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
 <!-- - 💻 Currently working project:- [Traveling Agency Website](https://traveling-agency.web.app/) -->
 </div>
