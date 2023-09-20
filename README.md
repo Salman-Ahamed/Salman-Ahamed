@@ -48,7 +48,6 @@
 - 💻 Currently working project:- [ConnectDesk](https://connect-desk-bh.vercel.app/)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
-  <!-- - 💻 Currently working project:- [Traveling Agency Website](https://traveling-agency.web.app/) -->
   </div>
 
 <br/>
