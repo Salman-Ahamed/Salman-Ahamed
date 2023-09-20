@@ -55,9 +55,9 @@
 
 <h3 align="center">♻️🔗 Latest Project Live link 🔗♻️</h3>
 
-- [Ticoli: Live Preview](https://ticoli.vercel.app/)
-- [Connect Desk: Live Preview](https://connect-desk-bh.vercel.app/)
-- [Life Change BD: Live Preview](https://life-change-bd.vercel.app/)
+- Ticoli: [Live Preview](https://ticoli.vercel.app/)
+- Connect Desk: [Live Preview](https://connect-desk-bh.vercel.app/)
+- Life Change BD: [Live Preview](https://life-change-bd.vercel.app/)
 
 <br/>
 <!-- === === === === === === Github Status === === === === === === === === -->
