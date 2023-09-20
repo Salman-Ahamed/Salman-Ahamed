@@ -45,10 +45,18 @@
 - 👯 I’m looking to collaborate on MERN projects with other passionate developers.
 - 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress
 - 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
-- 💻 Currently working project:- [Traveling Agency Website](https://traveling-agency.web.app/)
+- 💻 Currently working project:- [ConnectDesk](https://connect-desk-bh.vercel.app/)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
 </div>
+
+<br/>
+
+<h3 align="center">♻️🔗 Latest Project Live link 🔗♻️</h3>
+
+- [Ticoli: Live Preview](https://ticoli.vercel.app/)
+- [Connect Desk: Live Preview](https://connect-desk-bh.vercel.app/)
+- [Life Change BD: Live Preview](https://life-change-bd.vercel.app/)
 
 <br/>
 <!-- === === === === === === Github Status === === === === === === === === -->
