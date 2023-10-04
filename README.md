@@ -24,7 +24,7 @@
   </h3>
 
   <div align="left" text-align= "justify">
-    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 💥Next.js app and 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
   </div>
   <br />
 <div>
