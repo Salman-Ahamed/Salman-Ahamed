@@ -42,8 +42,8 @@
 <!-- left side section -->
 
 - 🎯 I’m currently learning Next.js.
-- 👯 I’m looking to collaborate on MERN projects with other passionate developers.
-- 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress
+- 👯 I want to collaborate on MERN projects with other passionate developers.
+- 🥅 2023 Goals: To be a Master of React, React Native, and Redux as well as WordPress
 - 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
 - 💻 Currently working project:- [ConnectDesk](https://connect-desk-bh.vercel.app/)
 - 🤔 I’m looking for help with To increase efficiency
