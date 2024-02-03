@@ -43,9 +43,9 @@
 
 - 🎯 I’m currently learning Next.js.
 - 👯 I want to collaborate on MERN projects with other passionate developers.
-- 🥅 2023 Goals: To be a Master of React, React Native, and Redux as well as WordPress
+- 🥅 2024 Goals: To be a Master of Next js, React Native, and Testing
 - 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app/) for more details about me.
-- 💻 Currently working project:- [ConnectDesk](https://connect-desk-bh.vercel.app/)
+- 💻 Currently working project:- [Investor Insights](https://investor-hints.vercel.app/)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
   </div>
@@ -54,9 +54,10 @@
 
 <h3 align="center">♻️🔗 Latest Project Live link 🔗♻️</h3>
 
-- Ticoli: [Live Preview](https://ticoli.vercel.app/)
+- Investor Insights: [Live Preview](https://investor-hints.vercel.app/)
 - Connect Desk: [Live Preview](https://connect-desk-bh.vercel.app/)
-- Life Change BD: [Live Preview](https://life-change-bd.vercel.app/)
+- Ticoli: [Live Preview](https://ticoli.vercel.app/)
+- Life Recovery: [Live Preview](https://life-recovery-f582f.web.app/)
 
 <br/>
 <!-- === === === === === === Github Status === === === === === === === === -->
