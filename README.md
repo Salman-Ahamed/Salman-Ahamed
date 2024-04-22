@@ -68,6 +68,16 @@
 
 <div align="center">
   <table align="center">
+  <tr>
+      <td colspan="2" align="center">
+        <img
+          align="center"
+          width="100%"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
+          alt="Profile details" 
+        />
+      </td>
+    </tr>
     <tr>
       <td>
         <img
