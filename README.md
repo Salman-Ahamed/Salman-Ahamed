@@ -89,6 +89,7 @@
       <td colspan="2" align="center">
        <img
           align="center"
+          width="100%"
           src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
         />
       </td>
