@@ -92,11 +92,11 @@
     </tr>
     <tr>
       <td colspan="1" align="center">
-          <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by commit" />
+          <img width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by commit" />
         <!-- <div style="display: flex; justify-content: center;" align="center"></div>  -->
       </td>
       <td colspan="1" align="center">
-          <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" />
+          <img width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" />
       </td>
     </tr>
       <tr>
