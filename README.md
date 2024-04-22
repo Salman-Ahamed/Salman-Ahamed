@@ -69,13 +69,14 @@
 <div align="center">
   <table align="center" width="100%">
     <tr>
-      <td>
+      <td colspan="1" align="center">
         <img
+          width="100%"
           alt="Shahriyar-Hosen :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
       </td>
-      <td>
+      <td colspan="1" align="center">
       <img
           align="center"
           width="100%"
