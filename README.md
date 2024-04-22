@@ -68,16 +68,6 @@
 
 <div align="center">
   <table align="center" width="100%">
-  <tr>
-      <td colspan="2" align="center">
-        <img
-          align="center"
-          width="100%"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
-          alt="Profile details" 
-        />
-      </td>
-    </tr>
     <tr>
       <td>
         <img
@@ -100,14 +90,24 @@
         />
       </td>
     </tr>
+      <tr>
+      <td colspan="2" align="center">
+        <img
+          align="center"
+          width="100%"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
+          alt="Profile details" 
+        />
+      </td>
+    </tr>
 </table>
 </div>
- <img
+ <!-- <img
     align="center"
     width="100%"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
      alt="Profile details" 
-  />
+  /> -->
 
 <div style="display: flex; justify-content: center;" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" width="400" />
