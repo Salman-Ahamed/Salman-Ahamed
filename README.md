@@ -68,14 +68,14 @@
 
 <div align="center">
   <table align="center">
-    <tr>
-      <td colspan="3" align="center">
+    <!-- <tr>
+      <td colspan="2" align="center">
         <img
           align="center"
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
         />
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         <img
@@ -95,10 +95,16 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="1" align="center">
         <img
           align="center"
           src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
+        />
+      </td>
+      <td colspan="1" align="center">
+        <img
+          align="center"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
         />
       </td>
     </tr>
