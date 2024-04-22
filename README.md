@@ -69,13 +69,13 @@
 <div align="center">
   <table align="center" width="100%">
     <tr>
-      <td>
+      <td colspan="6">
         <img
           alt="Shahriyar-Hosen :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
       </td>
-      <td>
+      <td colspan="6">
        <img
           align="center"
           src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
@@ -99,7 +99,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="12">
         <div style="display: flex; justify-content: center;" align="center">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by repo" width="400" />
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by commit" width="400" />
@@ -107,7 +107,7 @@
       </td>
     </tr>
       <tr>
-      <td colspan="2" align="center">
+      <td colspan="12" align="center">
         <img
           align="center"
           width="100%"
