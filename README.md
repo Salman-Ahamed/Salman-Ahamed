@@ -179,6 +179,10 @@
 
 <hr>
 
+<h1 align="center">💖 Git Roll <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
+
+<a href="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugK59C81myfgmml6CPzYj7nVDkmQ2" alt="GitRoll Profile Badge"/></a>
+
  <!--  === === === === === === === Favorite Stack === === === === === === === ===  -->
 
 <h1 align="center">💖 My Favorite Stack 💖</h1>
@@ -198,8 +202,6 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
 </p>
-
-<a href="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugK59C81myfgmml6CPzYj7nVDkmQ2" alt="GitRoll Profile Badge"/></a>
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 
