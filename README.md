@@ -71,7 +71,7 @@
     <tr>
       <td colspan="1" align="center">
         <img
-          width="100%"
+          width="400px"
           alt="Shahriyar-Hosen :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
@@ -79,6 +79,7 @@
       <td colspan="1" align="center">
       <img
           align="center"
+          width="400px"
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=blue_green"
           alt="Profile details" 
         />
