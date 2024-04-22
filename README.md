@@ -72,12 +72,14 @@
       <td>
         <img
           alt="Shahriyar-Hosen :: Profile Stats"
+          width="100%"
           src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
       </td>
       <td>
         <img
           alt="Shahriyar-Hosen :: Top Langs]"
+          width="100%"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
         />
       </td>
