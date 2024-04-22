@@ -199,6 +199,8 @@
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
 </p>
 
+<a href="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugK59C81myfgmml6CPzYj7nVDkmQ2" alt="GitRoll Profile Badge"/></a>
+
 <h1 align="center">🏆 Github Profile Trophy</h1>
 
 <!-- <p align="center">  -->
