@@ -92,6 +92,7 @@
       </td>
       <td colspan="4" align="center">
         <img
+        width="100%"
          align="center"
           alt="Shahriyar-Hosen :: Top Langs]"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
