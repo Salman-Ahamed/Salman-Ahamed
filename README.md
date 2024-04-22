@@ -80,10 +80,6 @@
           align="center"
           src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
         />
-        <!-- <img
-          alt="Shahriyar-Hosen :: Top Langs]"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
-        /> -->
       </td>
     </tr>
     <tr>
@@ -92,11 +88,11 @@
           align="center"
           width="100%"
           src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
-          alt="Profile details" 
         />
       </td>
       <td>
         <img
+         align="center"
           alt="Shahriyar-Hosen :: Top Langs]"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
         />
