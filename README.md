@@ -83,26 +83,25 @@
       </td>
     </tr>
     <tr>
-      <td colspan="1" align="center">
+      <td colspan="2" align="center">
         <img
           align="center"
           src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
         />
       </td>
-      <td colspan="1" align="center">
-        <img
-          align="center"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
-        />
-      </td>
     </tr>
   </table>
 </div>
-
-<img
-  alt="Shahriyar-Hosen :: Productive time"
-  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=github_dark&utcOffset=8"
- />
+ <img
+    align="center"
+    width="100%"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=github_dark"
+     alt="Profile details" 
+  />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&show_icons=true&theme=github_dark" alt="Shahriyar-Hosen trophies" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=github_dark" alt="Shahriyar-Hosen streak badge" width="48%" />
+</div>
 
 <div style="display: flex; justify-content: center;" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" width="400" />
