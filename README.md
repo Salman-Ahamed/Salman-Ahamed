@@ -119,7 +119,7 @@
       </td> -->
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="1" align="center">
         <img
           align="center"
           width="100%"
