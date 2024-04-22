@@ -42,15 +42,16 @@
 <!-- left side section -->
 
 - 🎯 I’m currently learning Next.js.
-- 👯 I want to collaborate on MERN projects with other passionate developers.
+<!-- - 👯 I want to collaborate on MERN projects with other passionate developers. -->
 - 🥅 2024 Goals: To be a Master of Next js, React Native, and Testing
 - 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
 - 💻 Currently working project:- [Proactive Muslim](https://proactive-muslim.vercel.app)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
-  </div>
+- 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing)
+</div>
 
-<br/>
+<!-- <br/>
 
 <h3 align="center">♻️🔗 Latest Project Live link 🔗♻️</h3>
 
@@ -58,7 +59,7 @@
 - Investor Hints: [Live Preview](https://investor-hints.vercel.app)
 - Connect Desk: [Live Preview](https://connect-desk-bh.vercel.app)
 - Ticoli: [Live Preview](https://ticoli.vercel.app)
-- Life Recovery: [Live Preview](https://life-recovery-f582f.web.app)
+- Life Recovery: [Live Preview](https://life-recovery-f582f.web.app) -->
 
 <br/>
 <!-- === === === === === === Github Status === === === === === === === === -->
