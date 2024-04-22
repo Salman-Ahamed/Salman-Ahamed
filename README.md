@@ -94,7 +94,7 @@
      <td colspan="2">
         <div style="display: flex; justify-content: center; align-items: center;" justify="center" align="center">
           <img
-            width="450px"
+            width="400px"
             src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
           />
          <img
