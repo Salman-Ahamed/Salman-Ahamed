@@ -118,7 +118,10 @@
     </tr>
   </table>
 </div>
-
+<div style="display: flex; justify-content: center;" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=tokyonight" alt="Top languages by repo" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=tokyonight" alt="Top languages by commit" width="400" />
+</div>
 <br/>
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
 <h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
