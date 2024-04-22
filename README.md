@@ -95,20 +95,6 @@
       </td>
     </tr>
     <tr>
-      <td>
-        <img
-          alt="Shahriyar-Hosen :: Profile Stats"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark"
-        />
-      </td>
-      <td>
-        <img
-          alt="Shahriyar-Hosen :: Productive time"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark"
-        />
-      </td>
-    </tr>
-    <tr>
       <td colspan="2" align="center">
         <img
           align="center"
@@ -119,8 +105,8 @@
   </table>
 </div>
 <div style="display: flex; justify-content: center;" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=tokyonight" alt="Top languages by repo" width="400" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=tokyonight" alt="Top languages by commit" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by commit" width="400" />
 </div>
 <br/>
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
