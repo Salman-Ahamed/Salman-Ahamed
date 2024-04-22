@@ -92,7 +92,7 @@
     </tr>
     <tr>
      <td colspan="2">
-        <div style="display: flex; justify-content: center; align-items: center;" align="center">
+        <div style="display: flex; justify-content: center; align-items: center;" justify="center" align="center">
           <img
             width="450px"
             src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
