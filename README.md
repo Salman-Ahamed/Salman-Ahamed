@@ -95,6 +95,20 @@
       </td>
     </tr>
     <tr>
+      <td>
+        <img
+          alt="Shahriyar-Hosen :: Profile Stats"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark"
+        />
+      </td>
+      <td>
+        <img
+          alt="Shahriyar-Hosen :: Productive time"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark"
+        />
+      </td>
+    </tr>
+    <tr>
       <td colspan="2" align="center">
         <img
           align="center"
