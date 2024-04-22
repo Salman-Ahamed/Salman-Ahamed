@@ -83,10 +83,9 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img
-          align="center"
-          width="400px"
+          width="450px"
           src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
         />
       </td>
