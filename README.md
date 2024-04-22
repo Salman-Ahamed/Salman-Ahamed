@@ -91,13 +91,18 @@
       </td>
     </tr>
     <tr>
-      <td colspan="1" align="center">
+      <td colspan="2">
+        <div style="display: flex; justify-content: center;" align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by commit" width="400" />
+        </div>
+      </td>
+      <!-- <td colspan="1" align="center">
           <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by commit" />
-        <!-- <div style="display: flex; justify-content: center;" align="center"></div>  -->
       </td>
       <td colspan="1" align="center">
           <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" />
-      </td>
+      </td> -->
     </tr>
       <tr>
       <td colspan="2" align="center">
