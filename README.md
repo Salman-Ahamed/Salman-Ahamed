@@ -91,12 +91,12 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" width="100%">
+      <!-- <td colspan="2" align="center" width="100%"> -->
         <div style="display: flex; justify-content: center;" align="center" width="100%">
           <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by commit" />
           <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=github_dark" alt="Top languages by repo" />
         </div> 
-      </td>
+      <!-- </td> -->
     </tr>
       <tr>
       <td colspan="2" align="center">
