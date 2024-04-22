@@ -67,7 +67,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 💝 Github Status 💝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
 
 <div align="center">
-  <table align="center">
+  <table align="center" width="100%">
   <tr>
       <td colspan="2" align="center">
         <img
@@ -100,7 +100,7 @@
         />
       </td>
     </tr>
-  </table>
+</table>
 </div>
  <img
     align="center"
