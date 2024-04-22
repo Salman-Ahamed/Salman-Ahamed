@@ -92,14 +92,14 @@
     </tr>
     <tr>
      <td colspan="2">
-        <div style="display: flex; justify-content: center; align-items: center;" justify="center" align="center">
+       <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
           <img
-            width="400px"
+            width="460px"
             src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
           />
          <img
-            align="center"
-            alt="Shahriyar-Hosen :: Top Langs]"
+            width="340px"
+            alt="Shahriyar-Hosen :: Top Langs"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
          />
         </div>
@@ -130,17 +130,7 @@
     </tr>
 </table>
 </div>
-<div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
-          <img
-            width="460px"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
-          />
-         <img
-            width="340px"
-            alt="Shahriyar-Hosen :: Top Langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
-         />
-        </div>
+
 <!-- <div style="display: flex; justify-content: center;" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by repo" width="400" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by commit" width="400" />
