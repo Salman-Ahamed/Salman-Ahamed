@@ -132,11 +132,11 @@
 </div>
 <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
           <img
-            width="470px"
+            width="460px"
             src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
           />
          <img
-            width="330px"
+            width="340px"
             alt="Shahriyar-Hosen :: Top Langs"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
          />
