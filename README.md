@@ -132,7 +132,7 @@
 </div>
 <div style="display: flex; justify-content: center;" align="center">
           <img
-            width="400px"
+            width="500px"
             src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
           />
          <img
