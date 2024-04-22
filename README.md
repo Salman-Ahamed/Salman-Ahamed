@@ -130,14 +130,13 @@
     </tr>
 </table>
 </div>
-<div style="display: flex; justify-content: center;" justify="center" align="center">
+<div style="display: flex; justify-content: center;" align="center">
           <img
             width="400px"
             src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
           />
          <img
-            width="400px"
-            alt="Shahriyar-Hosen :: Top Langs]"
+            alt="Shahriyar-Hosen :: Top Langs"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
          />
         </div>
