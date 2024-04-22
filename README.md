@@ -79,7 +79,6 @@
       <td colspan="1" align="center">
       <img
           align="center"
-          width="100%"
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=blue_green"
           alt="Profile details" 
         />
