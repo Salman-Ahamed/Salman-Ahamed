@@ -83,14 +83,14 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="8">
         <img
           align="center"
           width="100%"
           src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
         />
       </td>
-      <td  align="center">
+      <td colspan="4" align="center">
         <img
          align="center"
           alt="Shahriyar-Hosen :: Top Langs]"
