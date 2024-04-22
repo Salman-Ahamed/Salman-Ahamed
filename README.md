@@ -83,6 +83,14 @@
       </td>
     </tr>
     <tr>
+      <td colspan="2">
+        <div style="display: flex; justify-content: center;" align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by repo" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by commit" width="400" />
+        </div>
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         <img
           width="450px"
@@ -98,14 +106,6 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
-        <div style="display: flex; justify-content: center;" align="center">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by repo" width="400" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by commit" width="400" />
-        </div>
-      </td>
-    </tr>
-      <tr>
       <td colspan="2" align="center">
         <img
           align="center"
