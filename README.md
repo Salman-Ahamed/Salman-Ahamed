@@ -90,7 +90,7 @@
           src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
         />
       </td>
-      <td>
+      <td  align="center">
         <img
          align="center"
           alt="Shahriyar-Hosen :: Top Langs]"
