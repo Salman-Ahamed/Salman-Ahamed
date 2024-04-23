@@ -226,10 +226,10 @@
 </div>
 
 <!-- Visitor count -->
-<h3 align="center">Visitor count</h3>
-<p align="center"> 
+<!-- <h3 align="center">Visitor count</h3>
+<p align="center">
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
-</p>
+</p> -->
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 
