@@ -122,9 +122,9 @@
 
 <br/>
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
-<h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
+<!-- <h1 align="center">♻️📈 Contribution Graph 📉♻️</h1> -->
 
-[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- === === === === === === Technologies that I know === === === === === === === -->
 
