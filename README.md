@@ -228,7 +228,7 @@
 </p> -->
 
 <h1 align="center">💖 Git Roll <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
-<a href="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugK59C81myfgmml6CPzYj7nVDkmQ2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" target="_blank"><img src="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" alt="GitRoll Profile Badge"/></a>
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 
