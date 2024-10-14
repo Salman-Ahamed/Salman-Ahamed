@@ -4,7 +4,7 @@
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Projects](https://img.shields.io/badge/projects-30-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
-![Age](https://img.shields.io/badge/age-22-blueviolet)
+![Age](https://img.shields.io/badge/age-24-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
 
@@ -44,22 +44,12 @@
 - 🎯 I’m currently learning Next.js.
 - 🥅 2024 Goals: To be a Master of Next js, React Native, and Testing
 - 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
-- 💻 Currently working project:- [Proactive Muslim](https://proactive-muslim.vercel.app)
+- 💻 Currently working project:- [Hablu Programmer](https://www.hablu-programmer.com)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
-- 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing)
+<!-- - 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing) -->
 <!-- - 👯 I want to collaborate on MERN projects with other passionate developers. -->
 </div>
-
-<!-- <br/>
-
-<h3 align="center">♻️🔗 Latest Project Live link 🔗♻️</h3>
-
-- Proactive Muslim: [Live Preview](https://proactive-muslim.vercel.app)
-- Investor Hints: [Live Preview](https://investor-hints.vercel.app)
-- Connect Desk: [Live Preview](https://connect-desk-bh.vercel.app)
-- Ticoli: [Live Preview](https://ticoli.vercel.app)
-- Life Recovery: [Live Preview](https://life-recovery-f582f.web.app) -->
 
 <br/>
 <!-- === === === === === === Github Status === === === === === === === === -->
