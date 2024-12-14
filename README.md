@@ -2,7 +2,7 @@
 
 ![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
-![Projects](https://img.shields.io/badge/projects-30-important)
+![Projects](https://img.shields.io/badge/projects-60+-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
 ![Age](https://img.shields.io/badge/age-24-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat)
