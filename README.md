@@ -89,7 +89,7 @@
        <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
           <img
             width="460px"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=6"
           />
          <img
             width="340px"
