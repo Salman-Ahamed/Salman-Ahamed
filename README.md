@@ -42,7 +42,7 @@
 <!-- left side section -->
 
 - 🎯 I’m currently learning Next.js.
-- 🥅 2024 Goals: To be a Master of Next js, React Native, and Testing
+- 🥅 2025 Goals: To be a Master of Next JS, AWS, and start learning DevOps
 - 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
 - 💻 Currently working on [Hablu Programmer](https://www.hablu-programmer.com)
 - 🤔 I’m looking for help with To increase efficiency
