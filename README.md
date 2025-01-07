@@ -4,7 +4,6 @@
 [![wakatime](https://wakatime.com/badge/user/da72fa02-7125-4d4f-9663-e0ace1cf061f.svg)](https://wakatime.com/@da72fa02-7125-4d4f-9663-e0ace1cf061f)
 ![Projects](https://img.shields.io/badge/projects-60+-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
-![Age](https://img.shields.io/badge/age-24-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
 
