@@ -1,7 +1,7 @@
 <!-- Badge -->
 
 ![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
-![Focus](https://img.shields.io/badge/focus-FullStack-critical)
+[![wakatime](https://wakatime.com/badge/user/da72fa02-7125-4d4f-9663-e0ace1cf061f.svg)](https://wakatime.com/@da72fa02-7125-4d4f-9663-e0ace1cf061f)
 ![Projects](https://img.shields.io/badge/projects-60+-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
 ![Age](https://img.shields.io/badge/age-24-blueviolet)
