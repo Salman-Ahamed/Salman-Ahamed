@@ -212,7 +212,7 @@
 <!-- Visitor count -->
 <!-- <h3 align="center">Visitor count</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
+  <img src="https://profile-counter.glitch.me/Shahriyar-Hosen/count.svg" />
 </p> -->
 
 <!-- <h1 align="center">💖 Git Roll <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
