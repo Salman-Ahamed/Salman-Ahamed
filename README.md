@@ -196,7 +196,7 @@
 <hr>
 
  <!--  === === === === === === === Favorite Stack === === === === === === === ===  -->
-
+<!--  
 <h1 align="center">💖 My Favorite Stack 💖</h1>
 
 <div align="center">
@@ -207,7 +207,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
+</div> -->
 
 <!-- Visitor count -->
 <!-- <h3 align="center">Visitor count</h3>
