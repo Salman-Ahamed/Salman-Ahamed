@@ -5,7 +5,7 @@
 ![Projects](https://img.shields.io/badge/projects-60+-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
 ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
+[![Github](https://img.shields.io/github/followers/Salman-Ahamad?label=Follow&style=social)](https://github.com/Salman-Ahamad)&nbsp;
 
 <h1 align="center" >💥 💫💥 Welcome To My Github Profile 💥💫💥</h1>
 
@@ -16,7 +16,7 @@
     <!--Bd flag-->
     <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
     <br/> 
-    Hello, I'm Shahriyar Hosen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
+    Hello, I'm Salman  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
     <br/> 
     I'm an enthusiastic and passionate Web Developer from Bangladesh.
   </h3>
@@ -41,7 +41,7 @@
 
 - 🎯 I’m currently learning Next.js.
 - 🥅 2025 Goals: To be a Master of Next JS, AWS, and start learning DevOps
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
+- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://Salman-Ahamad.web.app) for more details about me.
 - 💻 Currently working on [Hablu Programmer](https://www.hablu-programmer.com)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
@@ -60,15 +60,15 @@
       <td colspan="1" align="center">
         <img
           width="400px"
-          alt="Shahriyar-Hosen :: Profile Stats"
-          src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+          alt="Salman-Ahamad :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=Salman-Ahamad&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
       </td>
       <td colspan="1" align="center">
       <img
           align="center"
           width="400px"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=blue_green"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salman-Ahamad&theme=blue_green"
           alt="Profile details" 
         />
       </td>
@@ -78,7 +78,7 @@
        <img
           align="center"
           width="70%"
-          src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
+          src="https://github-readme-streak-stats.herokuapp.com?user=Salman-Ahamad&theme=blue-green&hide_border=true"
         />
       </td>
     </tr>
@@ -87,12 +87,12 @@
        <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
           <img
             width="460px"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=6"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salman-Ahamad&theme=blue_green&utcOffset=6"
           />
          <img
             width="340px"
-            alt="Shahriyar-Hosen :: Top Langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
+            alt="Salman-Ahamad :: Top Langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Ahamad&langs_count=20&theme=blue-green&layout=compact&hide=html"
          />
         </div>
       </td>
@@ -100,8 +100,8 @@
     <tr>
       <td colspan="2">
         <div style="display: flex; justify-content: center;" align="center">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by repo" width="400" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by commit" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-Ahamad&theme=blue_green" alt="Top languages by repo" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salman-Ahamad&theme=blue_green" alt="Top languages by commit" width="400" />
         </div>
       </td>
     </tr>
@@ -112,7 +112,7 @@
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
  <h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
 
-[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salman-Ahamad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- === === === === === === Technologies that I know === === === === === === === -->
 
@@ -212,7 +212,7 @@
 <!-- Visitor count -->
 <!-- <h3 align="center">Visitor count</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Shahriyar-Hosen/count.svg" />
+  <img src="https://profile-counter.glitch.me/Salman-Ahamad/count.svg" />
 </p> -->
 
 <!-- <h1 align="center">💖 Git Roll <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
@@ -222,7 +222,7 @@
 
 <!-- <p align="center">  -->
   <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
-<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
+<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Salman-Ahamad&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
   <!-- </a> -->
 <!-- </p> -->
 
