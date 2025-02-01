@@ -45,9 +45,9 @@
 - 💻 Currently working on [Hablu Programmer](https://www.hablu-programmer.com)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
-<!-- - 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing) -->
-<!-- - 👯 I want to collaborate on MERN projects with other passionate developers. -->
-</div>
+  <!-- - 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing) -->
+  <!-- - 👯 I want to collaborate on MERN projects with other passionate developers. -->
+  </div>
 
 <br/>
 <!-- === === === === === === Github Status === === === === === === === === -->
@@ -196,7 +196,7 @@
 <hr>
 
  <!--  === === === === === === === Favorite Stack === === === === === === === ===  -->
-<!--  
+<!--
 <h1 align="center">💖 My Favorite Stack 💖</h1>
 
 <div align="center">
@@ -209,26 +209,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div> -->
 
-<!-- Visitor count -->
-<!-- <h3 align="center">Visitor count</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Salman-Ahamed/count.svg" />
-</p> -->
-
 <!-- <h1 align="center">💖 Git Roll <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
 <a href="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugK59C81myfgmml6CPzYj7nVDkmQ2" alt="GitRoll Profile Badge"/></a> -->
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 
-<!-- <p align="center">  -->
-  <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
-<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Salman-Ahamed&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
-  <!-- </a> -->
-<!-- </p> -->
-
-<!-- <p align="center" >
-  <img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="100%" height="320" />
-</p> -->
-<!--  Project png-->
-<!-- <img align='center' height='200' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
-<hr> -->
+<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Salman-Ahamed&column=8&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
