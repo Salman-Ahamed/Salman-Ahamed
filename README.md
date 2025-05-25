@@ -39,11 +39,11 @@
 <!-- left side section -->
 
 - 🎯 I’m currently learning Next.js.
+- 💻 Currently working on [SmythOS](https://smythos.com)
 - 🥅 2025 Goals: To be a Master of Next JS, AWS, and start learning DevOps
 - 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
-- 🤔 I’m looking for help with To increase efficiency
+- 🤔 I’m looking for help to increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
-- 💻 Currently working on [SmythOS](https://smythos.com)
 <!-- - 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing) -->
 <!-- - 👯 I want to collaborate on MERN projects with other passionate developers. -->
 
