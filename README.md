@@ -41,7 +41,7 @@
 - 🎯 I’m currently learning Next.js.
 - 💻 Currently working on [SmythOS](https://smythos.com)
 - 🥅 2025 Goals: To be a Master of Next JS, AWS, and start learning DevOps
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
+- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://salman-ahamed.vercel.app) for more details about me.
 - 🤔 I’m looking for help to increase efficiency
 - 📫 How to reach me: salman.0210.as@gmail.com
 <!-- - 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing) -->
