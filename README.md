@@ -212,4 +212,4 @@
 
 <h1 align="center">🏆 Github Profile Trophy</h1>
 
-<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Salman-Ahamed&column=8&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
+<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Salman-Ahamed&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
