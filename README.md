@@ -55,14 +55,14 @@
 <div align="center">
   <table align="center" width="100%">
     <tr>
-      <td colspan="1" align="center">
+      <td colspan="4" align="center">
         <img
           width="400px"
           alt="Salman-Ahamed :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=Salman-Ahamed&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
       </td>
-      <td colspan="1" align="center">
+      <td colspan="8" align="center">
       <img
           align="center"
           width="400px"
