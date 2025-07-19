@@ -55,14 +55,14 @@
 <div align="center">
   <table align="center" width="100%">
     <tr>
-      <td colspan="4" align="center">
+      <td colspan="1" align="center">
         <img
           width="400px"
           alt="Salman-Ahamed :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=Salman-Ahamed&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
       </td>
-      <td colspan="8" align="center">
+      <td colspan="1" align="center">
       <img
           align="center"
           width="400px"
@@ -72,7 +72,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="12" align="center">
+      <td colspan="2" align="center">
        <img
           align="center"
           width="70%"
@@ -81,7 +81,7 @@
       </td>
     </tr>
     <tr>
-     <td colspan="12">
+     <td colspan="2">
        <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
           <img
             width="460px"
@@ -96,7 +96,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="12">
+      <td colspan="2">
         <div style="display: flex; justify-content: center;" align="center">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-Ahamed&theme=blue_green" alt="Top languages by repo" width="400" />
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salman-Ahamed&theme=blue_green" alt="Top languages by commit" width="400" />
