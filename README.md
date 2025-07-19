@@ -72,7 +72,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="12" align="center">
        <img
           align="center"
           width="70%"
@@ -81,7 +81,7 @@
       </td>
     </tr>
     <tr>
-     <td colspan="2">
+     <td colspan="12">
        <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
           <img
             width="460px"
@@ -96,7 +96,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="12">
         <div style="display: flex; justify-content: center;" align="center">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-Ahamed&theme=blue_green" alt="Top languages by repo" width="400" />
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salman-Ahamed&theme=blue_green" alt="Top languages by commit" width="400" />
