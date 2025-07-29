@@ -76,7 +76,7 @@
        <img
           align="center"
           width="70%"
-          src="https://github-readme-streak-stats.herokuapp.com?user=Salman-Ahamed&theme=blue-green&hide_border=true"
+          src="https://github-readme-streak-stats-murex-ten-48.vercel.app?user=Salman-Ahamed&theme=blue-green&hide_border=true"
         />
       </td>
     </tr>
