@@ -76,7 +76,7 @@
        <img
           align="center"
           width="70%"
-          src="https://github-readme-streak-stats-murex-ten-48.vercel.app?user=Salman-Ahamed&theme=blue-green&hide_border=true"
+          src="https://github-readme-streak-stats-murex-ten-48.vercel.app?user=Salman-Ahamed&theme=blue-green&&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_border=true"
         />
       </td>
     </tr>
