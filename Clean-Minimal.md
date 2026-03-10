@@ -82,7 +82,7 @@ I'm a **Full-Stack Developer** from 🇧🇩 Bangladesh, currently working at **
 
 <div align="center">
 
-![Snake animation](https://github.com/Salman-Ahamed/Salman-Ahamed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Salman-Ahamed/Salman-Ahamed/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
